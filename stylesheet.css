@@ -1,0 +1,50 @@
+ body{
+    background-color: white;
+    align-content: center;
+}
+
+
+.h1{
+    text-align: center;
+    color: #38bdf8;
+}
+
+.h2{
+    text-align: center;
+    color: #fbbf24 ;
+}
+
+.main-div{
+   display:flex;
+   height:400px;
+   width: 400px;
+   background-color:#10b981;
+   margin-left: 500px;
+   flex-wrap: wrap;
+   align-content: center;
+   row-gap: 10px;
+   border-radius: 20px;
+   border-style: none;
+}
+
+.btn{
+    background-color: white;
+    height:120px;
+    width:120px;
+    margin-left:10px;
+    border-radius: 20px;
+    border-style: none;
+    font-size: 50px;
+}
+
+.new{
+    height:50px;
+    width: 150px;
+    background-color: #fbbf24;
+    color: white;
+    margin-top:30px;
+    font-size: large;
+    border-radius: 20px;
+    border-style: none;
+    margin-left: 630px;
+}
